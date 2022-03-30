@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=RWSceneEditor
+X-Python-2-Compatible=false
+X-Krita-Manual=RWSceneEditor.html
+Name=RW Scene Editor
+Comment=RW Scene Editor by Henpemaz.
