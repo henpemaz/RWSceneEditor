@@ -1,4 +1,4 @@
-###RW Scene Editor
+### RW Scene Editor
 
 A Krita plugin for loading and saving Rain World scenes. This plugin adds two actions under `Tools` for opening and saving scenes.
 
@@ -21,8 +21,8 @@ To save a scene, select "Save RW Scene" the folder where that scene will be save
 
 ## Instalation
 
-Tools -> Scripts -> Import, select the downloaded .zip
+Download the zip from [the releases page](https://github.com/henpemaz/RWSceneEditor/releases/latest) (not the source code, the zip!)
 
-Settings -> Configure Krita -> Python Plugin Manager, find `RW Scene Editor` and enable it.
+Tools -> Scripts -> Import from file -> Select the downloaded .zip -> Yes -> Close Krita (and then re-open it)
 
 When in doubt, check the [manual](https://docs.krita.org/en/user_manual/python_scripting/install_custom_python_plugin.html)

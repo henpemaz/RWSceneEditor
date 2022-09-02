@@ -97,7 +97,7 @@ class RWSceneEditor(Extension):
         k = Krita.instance()
 
         q = QFileDialog()
-        q.setWindowTitle("The folder to save the scene, the name of the folder will ")
+        q.setWindowTitle("The folder to save the scene")
         q.setFileMode(QFileDialog.Directory)
         q.setOption(QFileDialog.ShowDirsOnly, True)
 
